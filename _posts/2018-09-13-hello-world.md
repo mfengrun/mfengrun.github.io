@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
+subtitle:   Hello World!             #副标题
 date:       2018-09-13              # 时间
 author:     FR                      # 作者
 header-img:                         #这篇文章标题背景图片
