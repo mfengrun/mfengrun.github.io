@@ -1,10 +1,10 @@
 # Site settings
-title: FRs Blog
-SEOTitle: 冯润的博客 | FRs Blog
+title: Forever
+SEOTitle: 冯润的博客 | FR's Blog
 header-img: img/20170607085409167.jpg
 email: psy.fengrun@gmail.com
 description: "Hello world"
-keyword: "FR, FRs Blog, 冯润的博客, fengrun, 冯润, 应用心理学，产品，用户研究，运营"
+keyword: "FR, FR's Blog, 冯润的博客, fengrun, 冯润, 应用心理学，产品，用户研究，运营"
 url: "http://mfengrun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
