@@ -1,5 +1,5 @@
 # Site settings
-title: Forever
+title: For
 SEOTitle: 冯润的博客 | FR's Blog
 header-img: img/20170607085409167.jpg
 email: psy.fengrun@gmail.com
@@ -18,12 +18,12 @@ sidebar-avatar: /img/16pic_1765742_s.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     
-zhihu_username:     
+# weibo_username:
+zhihu_username:
 github_username:    mfengrun
-facebook_username:  
-jianshu_username:   
-#twitter_username:   
+facebook_username:
+jianshu_username:
+#twitter_username:
 
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+ba_track_id:
 
 # Google Analytics
 ga_track_id:           # Format: UA-xxxxxx-xx
