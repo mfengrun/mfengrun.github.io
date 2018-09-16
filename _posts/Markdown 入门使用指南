@@ -1,0 +1,163 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      Markdown 入门使用指南               # 标题 
+subtitle:   Markdown 最基本的几个语法规则            #副标题
+date:       2018-09-16              # 时间
+author:     Fengrun                      # 作者
+header-img: img/000011.jpg         #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 工具
+---
+
+# Markdown 入门使用指南
+
+作为新人，其实只要记住以下几个语法，就可以开始写 Markdown 了。
+
+
+
+## 分级标题
+
+`# 一级标题`
+
+`## 二级标题`
+
+`### 三级标题`
+
+
+
+如上所示，书写方法为
+
+> 若干个 # + 空格 + 标题名称
+
+
+
+一个井号代表一级标题，两个井号代表二级标题，以此类推；同时，请记住在井号和标题名之间要有 **空格**
+
+
+
+![](https://cdn.sspai.com/attachment/origin/2014/04/15/69492.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+
+
+## 列表
+
+### 有序列表
+
+键入 `1. 1`  将生成 1.1
+
+`1. 2` 将生成 1.2
+
+`1. 3` 将生成 1.3
+
+
+
+即 —— 若想生成有序列表，在键入 `1.` 以后键入**空格**，空格后再输入二级数字，即可生成有序列表
+
+
+
+### 无序列表
+
+无序列表的生成则相对简单，只需要在对象前键入 `-  ` 或 `*` 和空格即可
+
+如键入 `- 第一` 将会生成
+
+- 第一
+
+
+
+同上，不要忘记在 - 和对象之间键入**空格**
+
+
+
+![](https://cdn.sspai.com/attachment/origin/2014/04/15/69493.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+## 引用
+
+只需要在引用内容之间键入 `> ` 即可
+
+
+
+如键入 `> 引用内容` 时则可以生成以下效果
+
+> 引用内容
+
+
+
+![](https://cdn.sspai.com/attachment/origin/2014/04/15/69494.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+
+
+## 链接与图片
+
+### 链接
+
+键入 `[百度](www.baidu.com)` 将生成
+
+[百度](www.baidu.com)
+
+点击文字即可直接跳转到链接
+
+
+
+### 图片
+
+与链接唯一不同的地方在于需要在首位添加一个感叹号
+
+键入`![美能达X700胶片样张](图片地址)` 将自动生成出以下的图片（需要确保图片地址是有效的）
+
+
+
+![美能达X700胶片样张](http://imglf4.nosdn0.126.net/img/TVFhY3grTFlUU1k5cVhZMVhlTkU2dVd0UlpjU2xaclkwM0IxYjg5OE5DSVVwaWl3UjZnbm9BPT0.jpg?imageView&thumbnail=3000y1992&type=jpg&quality=96&stripmeta=0&type=jpg)
+
+
+
+## 粗体和斜体
+
+键入`**文字**` 将生成 **文字**
+
+键入`*文字*` 将生成 *文字*
+
+
+
+是的，就是在文字两遍的星号数量的不同而已，这个还是蛮好记的
+
+
+
+## 代码框
+
+键入 `` 符号，并在中间输入 code，即可生成以下效果
+
+`code`
+
+![](https://cdn.sspai.com/attachment/origin/2014/04/15/69496.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+
+
+## 分割线
+
+键入 `***` 即可生成分割线
+
+
+
+非常简单
+
+
+
+## 小结
+
+不需要把这些语言背下来，练习 Markdown 的最好方法就是多写多练，慢慢提高自己的书写的熟练度
+
+
+
+如果发现键入语言后无法生成相应的富文本效果，请先检查以下自己键入时的中英文模式，请用英文键盘键入语言
+
+
+
+最后，推荐 Windows 平台下最好用的 Markdown 工具（我个人这么认为）
+
+
+
+**Typora**
+
+[Typora 官网](https://typora.io/)
